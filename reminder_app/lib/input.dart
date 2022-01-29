@@ -9,7 +9,7 @@ TextEditingController Title = new TextEditingController();
   Widget build(BuildContext context) {
     return Column(
       children: [  Container(
-              padding: EdgeInsets.all(10),
+              padding: EdgeInsets.all(20),
               
                 
                     margin: EdgeInsets.all(10),
